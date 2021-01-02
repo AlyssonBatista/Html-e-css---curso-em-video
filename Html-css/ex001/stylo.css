@@ -1,0 +1,7 @@
+.shape {
+    position: absolute;
+    z-index: 1;
+    width: 80%;
+    top: -6.25rem;
+    right: -12.5rem;
+}
